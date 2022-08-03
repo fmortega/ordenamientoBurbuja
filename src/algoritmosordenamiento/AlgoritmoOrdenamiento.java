@@ -3,7 +3,7 @@ package algoritmosordenamiento;
 public class AlgoritmoOrdenamiento {
 
     public static void main(String[] args) {
-        int arreglo[] = {40, 21, 4, 9, 10, 35};
+        int arreglo[] = {21,40,4,9,10,35};
         int temporal = 0;
        //  System.out.println("      Arreglo original");
          
